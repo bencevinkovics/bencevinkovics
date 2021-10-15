@@ -1,6 +1,6 @@
-###Hello! My name is Bence Vinkovics :wave:
+### Hello! My name is Bence Vinkovics :wave:
 
-##I'm a university student, aspiring to become a web developer
+## I'm a university student, aspiring to become a web developer
  - :mortar_board: I'm studying Business Informatics at Corvinus University of Budapest
  - :books: Currently I'm learning React
  - :clock2: I like to practice coding in my free time
